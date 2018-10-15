@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\bin\Debug\netcoreapp2.1\hw4.deps.json
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\bin\Debug\netcoreapp2.1\hw4.runtimeconfig.json
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\bin\Debug\netcoreapp2.1\hw4.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\bin\Debug\netcoreapp2.1\hw4.dll
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\bin\Debug\netcoreapp2.1\hw4.pdb
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.dll
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\hw4\obj\Debug\netcoreapp2.1\hw4.pdb

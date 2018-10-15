@@ -1,0 +1,1 @@
+can see the table but all var show null
